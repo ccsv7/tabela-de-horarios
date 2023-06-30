@@ -1,0 +1,73 @@
+.fundo{
+
+    background-color: rgb(135, 0, 0);
+
+    color: white;
+
+    text-align: center;
+
+}
+
+.texto{
+
+    writing-mode: vertical-rl;
+
+    text-orientation: mixed;
+
+}
+
+.inter{
+
+    text-align: center;
+
+    background-color: #d0cece;
+
+}
+
+.dias{
+
+    background-color: #f8e5d8;
+
+}
+
+.rosa{
+
+    background-color: #f4c7e8;
+
+}
+
+.marrom{
+
+    background-color: #eab38a;
+
+}
+
+.amarelo{
+
+    background-color: #f6c242;
+
+}
+
+.cinza{
+
+    background-color: #dbe0f1;
+
+}
+
+.verde{
+
+    background-color: #cbdfb8;
+
+}
+
+.amar{
+
+background-color: #fbfa64;
+
+}
+
+.roxo{
+
+background-color: #b396d0;
+
+}
